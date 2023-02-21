@@ -1,2 +1,2 @@
-let yourArray=["JavaScript",18,"ReactJS",true,2023];
+let yourArray=["JavaScript",18,"ReactJS",true,null];
 
