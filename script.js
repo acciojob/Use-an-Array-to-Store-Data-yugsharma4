@@ -1,2 +1,2 @@
-let yourArray=["JavaScript",18,"ReactJS",true,null];
+let yourArray = ['apple', 42, true, null, 'hello world'];
 
