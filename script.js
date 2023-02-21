@@ -1,3 +1,2 @@
-const yourArray = ["JavaScript", 1, true, "ReactJS", 4];
-console.log(yourArray)
+let yourArray=["JavaScript",18,"ReactJS",true,2023];
 
