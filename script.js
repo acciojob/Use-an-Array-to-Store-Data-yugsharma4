@@ -1,2 +1,3 @@
-const yourArray = ["JavaScript", 1, true, "ReactJS", 4,2];
+const yourArray = ["JavaScript", 1, true, "ReactJS", 4];
+console.log(yourArray)
 
